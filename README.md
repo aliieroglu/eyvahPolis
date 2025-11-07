@@ -69,9 +69,9 @@ Oyun başladığında oyuncunun ekranına can barı ve nişangah ekleme
 
 Projemiz, "Arcade-Survival" ve "FPS/TPS Shooter" türlerindeki oyunların mekaniklerini referans almıştır.
 
-*   **Örnek 1: Serious Sam :** "Beheaded Kamikaze" düşman tipi projemizdeki NPC'lerle benzer. Bu düşmanlar, oyuncuya doğru koşar ve yakın mesafede patlar.
+*   **Örnek 1: Serious Sam :** "Beheaded Kamikaze" düşman tipi projemizdeki NPC'lerle benzer. Bu düşmanlar oyuncuya doğru koşar ve yakın mesafede patlar.
     
-*   **Örnek 2: Minecraft:** Benzer şekilde, "Creeper" adlı NPC de oyuncuyu takip eder, yaklaştığında bir fitil sesi çıkarır ve patlar.
+*   **Örnek 2: Minecraft:** Benzer şekilde, "Creeper" adlı NPC de oyuncuyu takip eder, yaklaştığında patlar.
     
 *   **Örnek 3: Call of Duty: Zombies (Oyun Döngüsü):** Kapalı bir haritada sürekli gelen düşman dalgalarına karşı hayatta kalma, kaynak yönetimi ve harita içerisinde hareket etme zorunluluğu bulunması
     
