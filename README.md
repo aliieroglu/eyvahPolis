@@ -93,7 +93,7 @@ Projemiz, "Arcade-Survival" ve "FPS/TPS Shooter" türlerindeki oyunların mekani
     
 *   **Zorluk 2: Animasyon Ekleme , Olusturma, aim ofset** Karakterimiz eline silahi aldiginda aim offseti oluşturmak için animasyon yapisini blendleyerek bir system oluşturduk. Bu kisimda bir cok kez bozulmalar yasandi. Genel olarak hazir animasyon kullanmadikca animasyonlari yonetmek mesakatli bir surec oldu.
     
-*   **Zorluk 3: Silah Mekaniği Eklenirken Yaşanan Zorluklar** (Not: Orijinal metinde 2 adet "Zorluk 2" vardı, bunu 3 olarak düzelttim) Oyuncuya silah mekaniğini eklerken silah actorünü ayarlamak isterken bazı hatalarla karşılaştık. Silahı oyuncunun eline gelecek şekilde ayarlasak bile hatadan dolayı kullanıcının gövdesinde gözüküyordu.
+*   **Zorluk 3: Silah Mekaniği Eklenirken Yaşanan Zorluklar** Oyuncuya silah mekaniğini eklerken silah actorünü ayarlamak isterken bazı hatalarla karşılaştık. Silahı oyuncunun eline gelecek şekilde ayarlasak bile hatadan dolayı kullanıcının gövdesinde gözüküyordu.
     
 
 ## 8) Sonuç ve Kişisel Kazanımlar
