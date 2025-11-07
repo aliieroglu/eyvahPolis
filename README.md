@@ -1,5 +1,3 @@
-# MyProject
-
 ## EyvahPolis oyunu
 
 Bir TPS-Survival oyunu
