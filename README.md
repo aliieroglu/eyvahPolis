@@ -2,7 +2,7 @@
 
 Bir TPS-Survival oyunu
 
-Proje, Unreal Engine 5 motoru üzerinde C++ ve Blueprint hibrit mimarisi kullanılarak geliştirildi. Projenin ana hedefi, kapalı bir kumarhane haritasında, oyuncuyu kovalayan ve yakaladığında patlayarak hasar veren yapay zeka (NPC) dalgalarına karşı oyuncunun hayatta kalmasını sağlamaktır. Oyuncular, NPC'leri vurarak ve haritadaki can paketlerini toplayarak hayatta kalma sürelerini uzatmaya çalışır.
+Proje, Unreal Engine 5 motoru üzerinde Blueprint mimarisi kullanılarak geliştirildi. Projenin ana hedefi, kapalı bir kumarhane haritasında, oyuncuyu kovalayan ve yakaladığında patlayarak hasar veren yapay zeka (NPC) dalgalarına karşı oyuncunun hayatta kalmasını sağlamaktır. Oyuncular, NPC'leri vurarak ve haritadaki can paketlerini toplayarak hayatta kalma sürelerini uzatmaya çalışır.
 
 ## 1) Sistemin Mimarisi
 
@@ -102,7 +102,7 @@ Projemiz, "Arcade-Survival" ve "FPS/TPS Shooter" türlerindeki oyunların mekani
 
 Bu projenin bize kattıkları:
 
-1.  **Yapay Zeka Navigasyonu:** Küçük ve engellerle dolu bir haritada NavMesh oluşturma konusunda deneyim kazandık.
+1.  **Yapay Zeka Navigasyonu:** Küçük ve engellerle dolu bir haritada npclerin takılması vb. konusunda deneyim kazandık.
     
 2.  **Olay Yönelimli Programlama:** Delegates ve Overlap Events kullanarak sistemleri (sağlık, UI, patlama gibi) birbirine bağlamak için çaba sarf ettik.
     
